@@ -34,10 +34,10 @@ function preload(){
     covers[0] = loadImage('Images/chahun.jpg');
     covers[4] = loadImage('Images/taaron.jpg');
     covers[5] = loadImage('Images/tera.jpg');
-    covers[6] = loadImage('Images/img.jpeg');
+    covers[6] = loadImage('Images/imgg.jpg');
     covers[7] = loadImage('Images/tumhi.jpg');
     covers[8] = loadImage('Images/tumse.jpeg');
-    covers[9] = loadImage('Images/imgg.jpeg');
+    covers[9] = loadImage('Images/imgg.jpg');
 
 }
 
